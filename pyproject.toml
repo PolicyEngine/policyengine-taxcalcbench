@@ -7,3 +7,6 @@ dependencies = ["policyengine[us]==6.20.2"]
 
 [dependency-groups]
 dev = ["pytest", "hypothesis", "ruff"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

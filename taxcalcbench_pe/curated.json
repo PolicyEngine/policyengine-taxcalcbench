@@ -1,0 +1,27 @@
+{
+  "single-w2-unemployment-1099g": {
+    "question": "Can both engines reconcile W-2 wages and unemployment compensation to the same total income and AGI?",
+    "focus_lines": ["1a", "9", "11"],
+    "source": "https://www.irs.gov/pub/irs-prior/i1040gi--2024.pdf"
+  },
+  "mfj-dual-w2-over-65": {
+    "question": "How does the joint return account for age in the standard deduction?",
+    "focus_lines": ["12", "15"],
+    "source": "https://www.irs.gov/pub/irs-prior/i1040gi--2024.pdf"
+  },
+  "single-w2-box12-code-a-b-alaska": {
+    "question": "At the same taxable income, do both engines reproduce the IRS tax table entry for a single filer?",
+    "focus_lines": ["15", "16"],
+    "source": "https://www.irs.gov/pub/irs-prior/i1040tt--2024.pdf#page=5"
+  },
+  "hoh-w2-1099g-unemployment-schedulec-loss": {
+    "question": "How much of the Schedule C loss reaches total income after the Form 461 excess business loss limitation?",
+    "focus_lines": ["9", "11"],
+    "source": "https://www.irs.gov/pub/irs-prior/i461--2024.pdf"
+  },
+  "single-w2-schedulec-1099b-capital-loss-carryover": {
+    "question": "Which lines can we compare when a stock sale's reported holding period conflicts with its acquisition and sale dates?",
+    "focus_lines": ["9", "11", "16"],
+    "source": "https://www.irs.gov/pub/irs-prior/i1040sd--2024.pdf"
+  }
+}

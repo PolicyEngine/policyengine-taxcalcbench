@@ -4,6 +4,17 @@ import json
 import pytest
 
 from taxcalcbench_pe import corpus
+from taxcalcbench_pe.lines import LINES
+
+
+def test_curated_cases_use_pinned_inputs_supported_lines_and_sources():
+    selection = json.loads(corpus.MANIFEST.with_name("curated.json").read_text())
+    roster = json.loads(corpus.MANIFEST.read_text())
+    supported = {line.number for line in LINES if not line.unsupported_reason}
+    assert selection and selection.keys() <= roster.keys()
+    for case in selection.values():
+        assert case["focus_lines"] and set(case["focus_lines"]) <= supported
+        assert case["question"] and case["source"].startswith("https://www.irs.gov/")
 
 
 def test_refuses_changed_reference_or_partial_roster(tmp_path, monkeypatch):

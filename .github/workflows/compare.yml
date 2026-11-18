@@ -1,5 +1,8 @@
 name: Verify TY24 comparison
-on: [push, pull_request]
+on:
+  push:
+    branches: [main]
+  pull_request:
 permissions:
   contents: read
 jobs:
@@ -16,3 +19,9 @@ jobs:
       - run: bash scripts/fetch-ty24.sh
       - run: uv run python -m pytest -q
       - run: uv run python -m taxcalcbench_pe
+      - run: uv run python -m taxcalcbench_pe.regression results/ty24.json
+      - uses: actions/upload-artifact@v4
+        if: always() && hashFiles('results/ty24.json') != ''
+        with:
+          name: ty24-comparison
+          path: results/ty24.json
