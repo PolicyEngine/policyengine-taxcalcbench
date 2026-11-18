@@ -1,0 +1,326 @@
+{
+  "hoh-multiple-w2-box12-codes": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "hoh-schedule-b-ssa1099-unemployment": [
+    "9",
+    "10",
+    "11",
+    "12",
+    "15"
+  ],
+  "hoh-w2-1099g-unemployment-schedulec-loss": [
+    "1a",
+    "12"
+  ],
+  "hoh-w2-dependent-care-credit-carryover-no-qualifying-person": [
+    "1a"
+  ],
+  "hoh-w2-dependent-educator-expenses-unemployment": [
+    "1a",
+    "9",
+    "10",
+    "11",
+    "12",
+    "15",
+    "16",
+    "19",
+    "24"
+  ],
+  "mfj-both-blind-nontaxable-social-security": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "mfj-capital-gains-losses-wash-sale-dependent": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "28"
+  ],
+  "mfj-dependent-claimed-2441-exclusion": [
+    "1a"
+  ],
+  "mfj-dual-w2-over-65": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "mfj-multiple-1099int-schedule-b-w2": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "mfj-multiple-schedule-c-loss-multi-home-office": [
+    "1a"
+  ],
+  "mfj-multiple-w2-schedule-c-qbi-income": [
+    "1a",
+    "9",
+    "12",
+    "15",
+    "16",
+    "19"
+  ],
+  "mfj-multiple-w2-schedule-c-qbi-max-threshold": [
+    "1a",
+    "9",
+    "10",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "mfj-multiple-w2s-excess-social-security-tax": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16"
+  ],
+  "mfj-schedule-2-multiple-w2-excess-social-security-tax": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "mfj-spouse-dependent-schedule-c-w2-student-loan-interest": [
+    "1a"
+  ],
+  "mfj-w2-box12-codes": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16"
+  ],
+  "mfj-w2-box12-codes-a-b-1099int-schedulec": [
+    "1a"
+  ],
+  "mfj-w2-capital-gains-wash-sales-dividends-dependent": [
+    "1a"
+  ],
+  "mfj-w2-multiple-1099g-unemployment-income": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "mfj-w2-schedule-c-loss-multi-home-office": [
+    "1a"
+  ],
+  "mfj-w2-six-dependents-student-over-17": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "mfj-w2-unemployment-1099g-repayments": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "mfj-w2s-dependent-estimated-tax-qbi-loss-carryforward": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "single-1099b-long-term-capital-gains-schedule-d": [
+    "9",
+    "11",
+    "12"
+  ],
+  "single-1099int-interest-income-schedule-b": [
+    "9",
+    "11",
+    "12",
+    "15",
+    "24"
+  ],
+  "single-1099k-personal-payments": [
+    "1a",
+    "9",
+    "10",
+    "11",
+    "12",
+    "27"
+  ],
+  "single-eic-non-dependent-child": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "single-multiple-w2-excess-social-security-tax": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "single-multiple-w2-excess-social-security-tax-same-ein": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "single-multiple-w2-schedule-c-qbi-losses": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "single-multiple-w2-state-records": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "single-retirement-1099r-alaska-dividend": [
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "single-senior-blind-over-65": [
+    "1a"
+  ],
+  "single-w2-balance-due-no-state-income-tax": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "single-w2-box12-code-a-b-alaska": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "single-w2-direct-debit-payment": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ],
+  "single-w2-healthcare-marketplace-1095a": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16"
+  ],
+  "single-w2-minimal-wages-alaska": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "single-w2-multiple-1099int-dividend": [
+    "1a"
+  ],
+  "single-w2-multiple-1099int-federal-withholding": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "single-w2-multiple-1099int-withholding-schedule-b": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "single-w2-retirement-sick-pay-social-security-tip": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "single-w2-schedule-c-qbi-dependent-estimated-tax": [
+    "1a",
+    "9",
+    "10",
+    "12"
+  ],
+  "single-w2-schedule-c-qbi-loss-carryforward": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "single-w2-schedulec-1099b-capital-loss-carryover": [
+    "1a",
+    "9",
+    "11",
+    "12"
+  ],
+  "single-w2-student-american-opportunity-credit": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "29"
+  ],
+  "single-w2-tips-long-employer-name": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15"
+  ],
+  "single-w2-unemployment-1099g": [
+    "1a",
+    "9",
+    "11",
+    "12",
+    "15",
+    "16",
+    "24"
+  ]
+}

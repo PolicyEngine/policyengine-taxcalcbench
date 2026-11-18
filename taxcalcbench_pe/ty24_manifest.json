@@ -1,0 +1,206 @@
+{
+  "hoh-multiple-w2-box12-codes": {
+    "input.json": "99b2830b88297a83efb3355d87c22dceddd9882a080686f5da18d6e6cbd7e9e1",
+    "output.xml": "ddd9cebbdaf443534079a50bed65430b2896c58e1f24951a1e3ebc170a33834d"
+  },
+  "hoh-schedule-b-ssa1099-unemployment": {
+    "input.json": "14ba445f04706a4a4d97d04c50476a0eceeac2be1482a8ede2757212475204f8",
+    "output.xml": "acc46a329d0a8156119fac15dbbb258dfef71057d3534ebf6c817e10961b29ed"
+  },
+  "hoh-w2-1099g-unemployment-schedulec-loss": {
+    "input.json": "a389a76e8020e3fc3ae3accd1c953bd0b9cf019e4af82203ba4408ac0134f13c",
+    "output.xml": "cf400410a8352c8ba4ef8e4b7eaf441d9b5380781b7fb574f7c4c93b6a652211"
+  },
+  "hoh-w2-dependent-care-credit-carryover-no-qualifying-person": {
+    "input.json": "10213c57e8a39619aaedb22b0cced95eeddf5e26e9f59a1df8b53a786723a810",
+    "output.xml": "f84da265b400eef14203cbb91dc3a4ef01431b81bd2183e5cec109640f73c622"
+  },
+  "hoh-w2-dependent-educator-expenses-unemployment": {
+    "input.json": "3afe2865e3c8e1b5c7b448264359e8ee527b6c2b449574fa9045a57a61f16d56",
+    "output.xml": "477ddfd1165c4b2f0890c9af75489632ccf1f5c33c1427ae1b48d1ef3098cf34"
+  },
+  "mfj-both-blind-nontaxable-social-security": {
+    "input.json": "32fef14395bb2127b93478476b7cfb764ae2012195587af4783de76f55465448",
+    "output.xml": "488d13eb950a2981b6544e74632fcbc0612a29faf941c8b1feea3c0d1fbfd639"
+  },
+  "mfj-capital-gains-losses-wash-sale-dependent": {
+    "input.json": "cdfbd451c7a82f500650c39104143344c61fa81d2db0c05f0e6e1b5ec491a933",
+    "output.xml": "6244f09531f4a863de1f2bdb7b6090880506cdcd28e357832fcd718fe446318d"
+  },
+  "mfj-dependent-claimed-2441-exclusion": {
+    "input.json": "6feadcfb01ebe2d1b9dfa9f74557326a14cb8027a4ec60ad7afee6d7b8f5b8e4",
+    "output.xml": "f9b3f96eb80e14cbff27e8ac36138a71209f08cb785ee74e860f7fa59bc50aa9"
+  },
+  "mfj-dual-w2-over-65": {
+    "input.json": "2fd7fb797c7341b48584fcbb99aa7fb153c1ce91267600ac86597c63205895c7",
+    "output.xml": "89df4498e7aa6a3c5169cab2c40f6e4e60edcf3883a7081f187da606e931b37f"
+  },
+  "mfj-multiple-1099int-schedule-b-w2": {
+    "input.json": "e61d506a06f8f748e2a84bd628c7c016e3aaa2a7116e71224ca30d00ce90e846",
+    "output.xml": "9c525e7c61649d66fe6539218b8758f2caa26cc55cd36426b676cf40a5b5157e"
+  },
+  "mfj-multiple-schedule-c-loss-multi-home-office": {
+    "input.json": "01002306e25ff8d28536a970e1a94e17f048364accaa32831d3f2dbea0787750",
+    "output.xml": "a527c00420a1c5ef53fda634f8b96635b2076a543211bc38e43478759907bb2b"
+  },
+  "mfj-multiple-w2-schedule-c-qbi-income": {
+    "input.json": "60b36de0ac38e86a33ec3bfde332a7721a0c57d00f137d35da7a588e357ed09f",
+    "output.xml": "afaaef00b1742e4c2ee63603d11933e5756d8911a5ed8ed33bf11f6e2cceee80"
+  },
+  "mfj-multiple-w2-schedule-c-qbi-max-threshold": {
+    "input.json": "ce727dac6644cda4bfc251953eb21f875d607efdd5796d61f8dfd631ad4b4a90",
+    "output.xml": "eb3356d036786647750e45a3a23fcc722b4e5e93eda61ccb89d21ea7cea7223d"
+  },
+  "mfj-multiple-w2s-excess-social-security-tax": {
+    "input.json": "9da7cb81f48ac54113f3c3f87dd6ea091a71e2e06378956665cdd4aebc51b234",
+    "output.xml": "b67f1248bc2aff15218d1ec82d7972bee64520944da6b6ebe6a17d159e4a845e"
+  },
+  "mfj-schedule-2-multiple-w2-excess-social-security-tax": {
+    "input.json": "b6307ee9e6284969824b031da3b0c3f5e8f0cc3754aaa04525468c5789487609",
+    "output.xml": "ba53bac09a23463355407e938cb5bbe999e49872300c165c10b17df56de48099"
+  },
+  "mfj-schedule-c-1099-misc-nec-k-ssa-1099-int-g": {
+    "input.json": "e7e7cb619766faa75e0120117d51b091233eed7af2680bb0dfa152efc4d71023",
+    "output.xml": "c074dae9c3f3df689e89d8b9ae3a3166f05e6cb4970f419d31bc1fbd93ab353d"
+  },
+  "mfj-spouse-dependent-schedule-c-w2-student-loan-interest": {
+    "input.json": "c0d5287ee8338d8b9e257813224b66d5b4aabdcb03d18cc0147a76fd9f3b1afe",
+    "output.xml": "227d57ea7b62f3a00f51f4632537b10242c02f044ef61b74b09be424b7caaa79"
+  },
+  "mfj-w2-box12-codes": {
+    "input.json": "a6e0e72c93a6bd506b6d966ed5e65c5edb510f66e7b11e920cb8699067d2700a",
+    "output.xml": "5361e549d71a04e72b7fd0fb94b6bc6ac47c4837f6d6effddae718b0052978d6"
+  },
+  "mfj-w2-box12-codes-a-b-1099int-schedulec": {
+    "input.json": "968341794c6db982ed3d0e655f753fb5002db62c9bb9f4de5002f6a7e6bdba87",
+    "output.xml": "fdc9aa96121209c6d7c644d69ed6911728fd34d0875835f2c95b9a51377c4517"
+  },
+  "mfj-w2-capital-gains-wash-sales-dividends-dependent": {
+    "input.json": "7519f086bbb59cfd5a295bfa99656052391e6a11eb59d576c66c3c0e7d6d4e3f",
+    "output.xml": "21b9fa00f1750d357e7fd4eaef487ae13b775ae7356432469d46ff12824c9747"
+  },
+  "mfj-w2-multiple-1099g-unemployment-income": {
+    "input.json": "2c330c7208ec72cec856805698630cd477f27517fc4db76eb6cf2db3d8ea0936",
+    "output.xml": "9caca104445c88f5a9a8a102bf92d565ed295146ef7d98d611f67f432dd8b8c0"
+  },
+  "mfj-w2-schedule-c-loss-multi-home-office": {
+    "input.json": "5060da214ca0038234fe5506197c198c2ddeef0983cdfe78efb47acaf52ad161",
+    "output.xml": "ef6960c4e261b7ce1d858f143645423c198a9359a636c23dfc106acd01bd2b84"
+  },
+  "mfj-w2-six-dependents-student-over-17": {
+    "input.json": "ea6eadd3b2df256abb6c9129eb565f73cc733be1a9858e7311869790e45528d3",
+    "output.xml": "3491cfa666f34350a4f67dfea92022bbe2124d7ee87649082d113074e9cb4de7"
+  },
+  "mfj-w2-unemployment-1099g-repayments": {
+    "input.json": "e9f564faa3bbb1c2863c6572f4178e066bf98131afeac45732fddb9466033e73",
+    "output.xml": "8541b8016326c207c3995af3f7950215507fd656e5974db7e4e34856078855c9"
+  },
+  "mfj-w2s-dependent-estimated-tax-qbi-loss-carryforward": {
+    "input.json": "f60bdb06c7e1e5af46e295ce4b793281710928e7656508101a223c503e4d4177",
+    "output.xml": "4e8080fe2d6e7e386260cf1b2c2940f6dd5569bd9206a2a9d51c99fae84d7c31"
+  },
+  "single-1099b-long-term-capital-gains-schedule-d": {
+    "input.json": "36723308876c7677514d55c9ff5f6743778f4de7e5e587d85dc970a2b5170974",
+    "output.xml": "c22ee7b055f7c1dbc1ab5a186393ebba71c26d7ae364acd4affe92c5682cda7b"
+  },
+  "single-1099int-interest-income-schedule-b": {
+    "input.json": "32e9ca94622e302361420bf51c8801f5abcf45c2e11124dc75323617d2b87155",
+    "output.xml": "b9c121d5d205de45c97938839aabfa19b6bffcfc84764d409faa7430a27b7f39"
+  },
+  "single-1099k-personal-payments": {
+    "input.json": "956eafef79541623003d2ddc8c88578a50d4763c7ecd91a666a9856ff0b784f7",
+    "output.xml": "8a9953cb2f898b3f0b571da31cfae25e741c795c2cd1a48d60193ddfe28f604e"
+  },
+  "single-eic-non-dependent-child": {
+    "input.json": "8b04ddc40449a9024659aed34fd8d11f75c39df205c46dade5ed4bea1e802a26",
+    "output.xml": "4f9906da2efcb91ac70dae7a49f0fa81ca754b9fe81c6cfc25bb9c7c6eaeb1c2"
+  },
+  "single-multiple-w2-excess-social-security-tax": {
+    "input.json": "130eb985f4cdc333ca702dd53404d9bc418bfd7dc5c78fc485e5e45d8ebb6eb5",
+    "output.xml": "8b69785b98b6d2b3d4bd71dee926c566745aabeec79ad6d3915ccb67eab0eb4d"
+  },
+  "single-multiple-w2-excess-social-security-tax-same-ein": {
+    "input.json": "5dbe66151aa8e3ca8973662d94161094472d2a3f6c07c9de001b1e9fe23fa82d",
+    "output.xml": "c10bcbace818429d91e118d155b473113860665eda024d3677cd3bc598dd2a3f"
+  },
+  "single-multiple-w2-schedule-c-qbi-losses": {
+    "input.json": "7c19095158122156302cbb1f638785dcf0d495b9fc9bb72f14aa52efa36ed70c",
+    "output.xml": "017733cf37b1960232356d57b800036dc0f147c3792786c832c9d5cb78f18578"
+  },
+  "single-multiple-w2-state-records": {
+    "input.json": "9063a0cb1ba185cbf6b6003d3af56b95873b832b27c25e183f0e92a804e7659f",
+    "output.xml": "40de9a67008a892d0e7ff33ab44aa6bee562748858bfe03f22a340141e9eb9d6"
+  },
+  "single-retirement-1099r-alaska-dividend": {
+    "input.json": "8b92f407899518dd15731d1ca2b42ae0c72fca9c71cd5684f6237d1e55095a75",
+    "output.xml": "ba82e2daaf8dc7ac9924ac253ec480a32e9c0311f95f6177e8f4596b8d532517"
+  },
+  "single-schedulec-1099misc-nec-k-loss": {
+    "input.json": "6ea895c40eb852a1bf3d7b8e99bc4f09d3e272c6f3f70ac5b5787a99aaa817f8",
+    "output.xml": "340dc5c14cc8e6cadf7123051864c2e6f0c415493d4afa522322c08961eb1fe1"
+  },
+  "single-senior-blind-over-65": {
+    "input.json": "ba6ff7a9769ae8ce759ded9bd3984331173ea4ca862ef6421e774727d89cb5a9",
+    "output.xml": "4793c6db8c1f1af6601e8a2e3ff728789e11dcd821dc387f7247bfac2a1c72dd"
+  },
+  "single-w2-balance-due-no-state-income-tax": {
+    "input.json": "2a037b212a897dc008212a0614c2677ba8a6fd9cc543828afc45c766172a4b72",
+    "output.xml": "5b4516e5c84eb903f7b4e38136958d779af7cab545a43b22008ad3d081c59fb5"
+  },
+  "single-w2-box12-code-a-b-alaska": {
+    "input.json": "d50cd076e83b8406d1035072e100aa854a245f492e7470b304187a0e5e08bf23",
+    "output.xml": "c26a9b829fd8460f277488897f91a168c824f47481c6849ca7644193049a26a6"
+  },
+  "single-w2-direct-debit-payment": {
+    "input.json": "a18d6cb2288db8b75d6bc1c641a8cb64a1b1895963ff3f10a9cdeb2368d6d074",
+    "output.xml": "edff2593dfdf4895c4917cf28de7d0c1d3d94c8f83c8c9078659d46c5c5e9374"
+  },
+  "single-w2-healthcare-marketplace-1095a": {
+    "input.json": "d76694d16a95630022c0c88180b652e970f41132f5e19f3b6878c85657844468",
+    "output.xml": "dffc9d7a7d43b7e17a083e568e441c81daa85f882a4284bf5dea17edb5d39f71"
+  },
+  "single-w2-minimal-wages-alaska": {
+    "input.json": "68ba706dfc13acb3cbe83a642a8dd8f043817ceaeef05ec247dfe3df5d4c881b",
+    "output.xml": "93cd8c45ffd4ba828ec90742a09d63a14af8d073e7cdf1a14c0d39c0d52095b3"
+  },
+  "single-w2-multiple-1099int-dividend": {
+    "input.json": "3b9481ebb646867585d5d29c63537b3570fb823eb7e885caaaa3784a0b0c0718",
+    "output.xml": "82c2be9a5ca87304c5ffa98e13f10bda0c188ece6ef0453362c75a3d918c241b"
+  },
+  "single-w2-multiple-1099int-federal-withholding": {
+    "input.json": "5a0574eb10a36652659c5a01bc8d4cf97de74416452bae677e2225069f58b23d",
+    "output.xml": "6297392b4d9e7ffcc438e16a92c6b9b52f85769dab88df9b8e4683eda6dbeda5"
+  },
+  "single-w2-multiple-1099int-withholding-schedule-b": {
+    "input.json": "ca088770a8b03fafe0f7a237285b864e8b6ce67ddeb1996c55358ea814b23acf",
+    "output.xml": "ed95247a7cf6e43d78902dc05ad4034334968701c2db1cf338b3465f63d346b2"
+  },
+  "single-w2-retirement-sick-pay-social-security-tip": {
+    "input.json": "75894ace6789f212e52a2cca4fc2631356a79d3694a5ca042923459cd1d3e05d",
+    "output.xml": "4ea0fbd771ffe898813c8a89bb10f29739559e23878bffe6d7b6e1a4c0881d4d"
+  },
+  "single-w2-schedule-c-qbi-dependent-estimated-tax": {
+    "input.json": "490a8a7a9b25a2b6b9f4b46ae04fd3222c88cb8932ec1db275cebbf94c12acd0",
+    "output.xml": "a799a420e9969e7a78ff3e426f348e6f3d8910c0c835360fe5f406bc66319568"
+  },
+  "single-w2-schedule-c-qbi-loss-carryforward": {
+    "input.json": "f78aedb7cfe568c95dac9b6d2a0ff56e79a47393a3e3b449310601fabe8af393",
+    "output.xml": "3d832454f2088b61d7a230950f0a5b8d1047a0e305fb503f11f19e2d27b52b4d"
+  },
+  "single-w2-schedulec-1099b-capital-loss-carryover": {
+    "input.json": "71f6a2ae71f7f7f766d523f8a9dc8ae293b830d04406d02fe9949a9655eb5646",
+    "output.xml": "77c3afeb911eb2c4500166671a6dbc9270c7623e5ec3e45a11efc2fa55d7d44e"
+  },
+  "single-w2-student-american-opportunity-credit": {
+    "input.json": "03a86191c0688aeac8a6a3dba90e398ff2389e9304f8891d8c1a5c3ff95ab504",
+    "output.xml": "d2422c47c3922326b916fe5b89b1fbff6c3a7ce40bd0f68643fe0489b78a6d61"
+  },
+  "single-w2-tips-long-employer-name": {
+    "input.json": "30f1e61f08688d99d48fc0ccb4cb84fc670d99cf30433473abf5cc50184da0a6",
+    "output.xml": "6034908da0d9771e824a42b3b9fd9ad06a4de0ec3b38d10b5f941359a468001e"
+  },
+  "single-w2-unemployment-1099g": {
+    "input.json": "79c0b905e5944731c7dd7ecaf3b50addb722a13246e7dc8f695ba19c9c240067",
+    "output.xml": "5f477ef7188e66acc4873d83aab11a3ec38828e5b9725e5e38a90c4b16a35e51"
+  }
+}

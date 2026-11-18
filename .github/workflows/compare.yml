@@ -1,0 +1,27 @@
+name: Verify TY24 comparison
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - run: uv sync --frozen --python 3.13
+      - run: uv run ruff check . && uv run ruff format --check .
+      - run: bash scripts/fetch-ty24.sh
+      - run: uv run python -m pytest -q
+      - run: uv run python -m taxcalcbench_pe
+      - run: uv run python -m taxcalcbench_pe.regression results/ty24.json
+      - uses: actions/upload-artifact@v4
+        if: always() && hashFiles('results/ty24.json') != ''
+        with:
+          name: ty24-comparison
+          path: results/ty24.json
